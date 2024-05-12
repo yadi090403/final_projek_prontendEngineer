@@ -1,0 +1,55 @@
+.conten {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+  }
+  
+  .global__satu {
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .global__dua {
+    color: #118AB2;
+    font-size: 40px;
+  }
+  
+  .global__tiga {
+    color: #666;
+  }
+  
+  .global__empat {
+    display: flex;
+    justify-content: space-around;
+    /* text-align: center; */
+    margin-bottom: 50px;
+  }
+  .global__empat {
+    height: 150px;
+    width: 80%;
+  }
+  
+  .global__data1,
+  .global__data2,
+  .global__data3 {
+    border-radius: 6px;
+    background-color: #e0e0e0;
+    color: #118AB2;
+    font-weight: bold;
+    flex: 1;
+    text-align: center;
+    margin: 0 10px;
+    box-shadow:3px 5px 5px 2px #333;
+  }
+  .global__data1,
+  .global__data2,
+  .global__data3 {
+    padding: 50px 30px;
+  }
+  .global__data1 {
+    padding-bottom: 20px;
+  }
+  

@@ -1,0 +1,48 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.form__awal {
+    height: 731;
+    padding-top: 230px;
+    padding-bottom: 110px;
+    background-color:  azure;
+}
+.form__satu {
+    float: right;
+    margin-right: 100px;
+    width: 300px;
+    font-size: 20px;
+    margin-top: -80px;
+}
+.judul {
+    font-size: 50px;
+    text-align: center;
+}
+.form__dua {
+    margin: 40px 0px;
+    align-content: center;
+}
+input {
+    width: 100%;
+    padding: 10px 5px;
+    border-radius: 5px 5px;
+}
+.input2 {
+    margin-top: 20px;
+    text-align: center;
+    background-color: #118AB2;
+    border-style: none;
+}
+.input2:hover {
+    background-color: #64748B;
+}
+.form__list {
+    padding: 20px 20px;
+}
+.form__imag {
+    width: 400px;
+    height: 401.79px;
+    margin-left: 200px;
+    margin-top: -100px;
+}
